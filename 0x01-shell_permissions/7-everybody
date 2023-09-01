@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd oug+x hello
+chmod:wq oug+x hello
